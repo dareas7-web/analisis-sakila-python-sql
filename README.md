@@ -23,8 +23,4 @@ Script consulta_clientes.py extrae Top 5 clientes que más gastaron.
 ## 🚀 Cómo ejecutar
 1. Clona el repo
 2. Crea archivo .env con tu clave MySQL:
-<<<<<<< HEAD
-[12:49 a.m., 17/6/2026] diego: Se pego la compu  14x
-=======
-[12:49 a.m., 17/6/2026] diego: Se pego la compu  14x# analisis-sakila-python-sql
->>>>>>> 7d1c763 (fix: quita timestam)
+
